@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-I'm a **Python backend engineer** with a creative edge, a love for clean systems, and a background in **audio engineering** and **visual storytelling**. I design resilient, secure, and intuitive systems that power user-focused products.
+I'm a **Python backend engineer** with a creative edge, a love for clean systems, and a background in **audio engineering**. I design resilient, secure, and intuitive systems that power user-focused products.
 
 Whether I’m building a modular API, crafting permission systems, or collaborating with data scientists, I bring a sharp eye for detail, a passion for learning, and a calm, focused energy to every project.
 
