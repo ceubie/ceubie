@@ -19,10 +19,10 @@ Whether I’m building a modular API, crafting permission systems, or collaborat
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-Python · Django · Flask · JavaScript · React (Frontend partner)  
+Python · Django · Flask · JavaScript · React  
 
 **Databases & DevOps:**  
-PostgreSQL · SQLite · AWS (S3) · Firebase · Docker · REST APIs  
+PostgreSQL · SQLite · AWS (S3, EC2) · Firebase · Docker · REST APIs  
 
 **Data & Tools:**  
 Pandas · NumPy · Git · Postman · DRF · Auth0 · JWT · VS Code
@@ -32,16 +32,17 @@ Pandas · NumPy · Git · Postman · DRF · Auth0 · JWT · VS Code
 ## 🚀 Current Focus
 
 ### 🧭 NovaViz
-A data visualization platform designed for non-technical users — think Figma meets Tableau. NovaViz empowers users to upload, clean, share, and collaborate on datasets and visualizations with ease.
+A data visualization platform designed for non-technical users. NovaViz empowers users to upload, clean, share, and collaborate on datasets and visualizations with ease.
 
 #### 🔐 Core Features:
 - Modular RBAC (Account + Workspace access)
 - Upload & tag datasets with visibility rules
-- Real-time features & responsive API design
+- Export and Embed Visualizations
+- Responsive API design
 - Secure user authentication (Auth0, JWT)
-- Styled API root with curl/Python/fetch snippets
+- Styled API root 
 
-> **Built with:** Django · DRF · PostgreSQL · AWS S3 · React · Pandas
+> **Built with:** Django · DRF · PostgreSQL · AWS · React · Pandas · Docker · Redis
 
 ---
 
