@@ -69,7 +69,7 @@ A data visualization platform designed for non-technical users. NovaViz empowers
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/ceubie)  
+- 💼 [LinkedIn](https://linkedin.com/in/ceubie](https://www.linkedin.com/in/cole-eubanks-a757b3307/))  
 - 🐙 [GitHub](https://github.com/ceubie)  
 - 📧 cras.ceubanks@gmail.com  
 
